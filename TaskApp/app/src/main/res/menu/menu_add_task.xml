@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.anuraj_pushapngadan.taskapp.taskapp.AddTask">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="1"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+    android:id="@+id/action_my_tasks"
+    android:orderInCategory="2"
+    android:title="@string/action_my_tasks"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="3"
+        android:title="@string/action_home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset_db"
+        android:orderInCategory="4"
+        android:title="@string/action_reset"
+        app:showAsAction="never" />
+
+</menu>

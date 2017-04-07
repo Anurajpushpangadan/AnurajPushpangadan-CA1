@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="app_version">4.0.2.7</string>
+    <string name="app_build">0.2.5</string>
+    <string name="app_copyrights">Copyrights @ Anuraj Pushpangadan</string>
+
+    <string name="action_settings">About</string>
+    <string name="action_my_tasks">My Task List</string>
+    <string name="action_reset">Reset</string>
+
+    <string name="action_home">Home</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_my_tasks_list">My Tasks</string>
+
+    <string name="row_layout_def_title">Title</string>
+    <string name="row_layout_def_location">Location</string>
+    <string name="row_layout_def_date">From - To</string>
+
+    <string name="content_my_task_list_header">Title, Location, Start - End date</string>
+</resources>
